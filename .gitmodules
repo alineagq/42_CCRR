@@ -1,0 +1,3 @@
+[submodule "projects/libft"]
+	path = projects/libft
+	url = git@github.com:alineagq/Libft_CCRR.git
